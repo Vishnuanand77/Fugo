@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Fugo</string>
+    <string name="initval">"0"</string>
+    <string name="dialog_title">Choose your items here!</string>
+    <string name="ok_label">Ok!</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+
+
+    <string-array name="Descriptions">
+        <item>Tasty Masala Dosa</item>
+        <item>Dosa but its life is set</item>
+        <item>Just like open relationships its open butter dosa</item>
+        <item>Classic Idli</item>
+        <item>In Bengaluru its called Vade. Period.</item>
+        <item>Apu Chole Bhutre and crowd inspired the Developers</item>
+        <item>iTs PuLaO nOt BiRyAnI</item>
+        <item>PuLaO WiTh aLoO</item>
+        <item>The closest thing to chicken biryani, but chinese</item>
+        <item>What can you do without me?</item>
+        <item>For peeps who dont do coffee... What can you do without me?</item>
+
+    </string-array>
+    <string-array name="Items">
+        <item>Masala Dosa</item>
+        <item>Set Dosa</item>
+        <item>Open butter Dosa</item>
+        <item>Idli</item>
+        <item>Vada</item>
+        <item>Chole Bhature</item>
+        <item>Veg Biryani</item>
+        <item>Aloo Biryani</item>
+        <item>Veg Fried Rice</item>
+        <item>Coffee</item>
+        <item>Tea</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>30</item>
+        <item>30</item>
+        <item>35</item>
+        <item>20</item>
+        <item>15</item>
+        <item>45</item>
+        <item>40</item>
+        <item>35</item>
+        <item>45</item>
+        <item>10</item>
+        <item>10</item>
+    </string-array>
+</resources>

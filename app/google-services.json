@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "858866036777",
+    "firebase_url": "https://fugo-c9c38.firebaseio.com",
+    "project_id": "fugo-c9c38",
+    "storage_bucket": "fugo-c9c38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858866036777:android:2274e09303ffaa8f39ac38",
+        "android_client_info": {
+          "package_name": "com.vishnu.fugo_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858866036777-ag2nlr1naev58lcaqprkdig7amjkvntf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishnu.fugo_login",
+            "certificate_hash": "c9b32d0da770a0f697f4dcd157b62e3e3323d70a"
+          }
+        },
+        {
+          "client_id": "858866036777-mb9scr42burqcha6hg96crkvksflfqpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwn2hKgpayCmHhTbxisqpi7PFWBU_3zYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858866036777-mb9scr42burqcha6hg96crkvksflfqpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
